@@ -13,7 +13,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
       handleClose={handleClose}
     >
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        이 게임은 오픈소스 wordle의{' '}
+        이 게임은 오픈소스 Wordle의{' '}
         <a
           href="https://github.com/asadal/wordle"
           className="underline font-bold"

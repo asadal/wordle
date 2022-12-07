@@ -1,7 +1,7 @@
-export const WORDLE_TITLE = '우리말 Wordle'
+export const WORDLE_TITLE = 'Hani Wordle'
 
 export const WIN_MESSAGES = ['멋져요!', '대단합니다!', '축하합니다!']
-export const GAME_COPIED_MESSAGE = '결과가 클립보드에 복사되었습니다.'
+export const GAME_COPIED_MESSAGE = '결과가 클립보드에 복사됐습니다.'
 export const ABOUT_GAME_MESSAGE = '이 게임에 대하여'
 export const NOT_ENOUGH_LETTERS_MESSAGE = '단어를 완성해주세요.'
 export const WORD_NOT_FOUND_MESSAGE = '3음절로 된 명사를 입력해주세요.'
